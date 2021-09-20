@@ -1,0 +1,547 @@
+[
+    {
+      "viewType":"horizontalScroll",
+      "data":[
+        {
+          "viewType":"bannerElement",
+          "imageUrl":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+          "title":"Buy 1 get 1 Free",
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"bannerElement",
+          "imageUrl":"https://images.unsplash.com/photo-1497888329096-51c27beff665?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+          "title":"Water Licking Options",
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"bannerElement",
+          "imageUrl":"https://images.unsplash.com/photo-1437750769465-301382cdf094?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+          "title":"Lip-Smacking Biryanis",
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"bannerElement",
+          "imageUrl":"https://images.unsplash.com/photo-1506395308321-904a71783d60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+          "title":"Heavenly Pizzas",
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    },
+  {
+    "viewType":"horizontalScroll",
+    "header":{
+      "title":"Top Categories",
+      "hasMore":true
+    },
+    "data":[
+      {
+        "viewType":"categoryElement",
+        "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/hamburger.png",
+        "title":"Burgers",
+        "subTitle":"260 Places",
+        "meta":{
+          "bgColor":"#EF5350"
+        },
+        "action":{
+          "type":1,
+          "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+        }
+      },
+      {
+        "viewType":"categoryElement",
+        "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/noodles.png",
+        "title":"Chinese",
+        "subTitle":"142 Places",
+        "meta":{
+          "bgColor":"#EC407A"
+        },
+        "action":{
+          "type":1,
+          "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+        }
+      },
+      {
+        "viewType":"bannerElement",
+        "imageUrl":"https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+        "title":"Upto 30% Off",
+        "action":{
+          "type":1,
+          "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+        }
+      },
+      {
+        "viewType":"categoryElement",
+        "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/pizza.png",
+        "title":"Pizza",
+        "subTitle":"203 Places",
+        "meta":{
+          "bgColor":"#5C6BC0"
+        },
+        "action":{
+          "type":1,
+          "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+        }
+      },
+      {
+        "viewType":"categoryElement",
+        "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/tacos.png",
+        "title":"Mexican",
+        "subTitle":"40 Places",
+        "meta":{
+          "bgColor":"#26C6DA"
+        },
+        "action":{
+          "type":1,
+          "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+        }
+      },
+      {
+        "viewType":"categoryElement",
+        "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/ice-cream.png",
+        "title":"Ice Cream",
+        "subTitle":"110 Places",
+        "meta":{
+          "bgColor":"#9CCC65"
+        },
+        "action":{
+          "type":1,
+          "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+        }
+      }
+    ]
+  },
+    {
+      "viewType":"VerticalScroll",
+      "data":[
+        {
+          "id":1,
+          "name":"A-Bomb",
+          "slug":"1-a-bomb",
+          "powerstats":{
+            "intelligence":38,
+            "strength":100,
+            "speed":17,
+            "durability":80,
+            "power":24,
+            "combat":64
+          },
+          "appearance":{
+            "gender":"Male",
+            "race":"Human",
+            "height":[
+              "6'8",
+              "203 cm"
+            ],
+            "weight":[
+              "980 lb",
+              "441 kg"
+            ],
+            "eyeColor":"Yellow",
+            "hairColor":"No Hair"
+          },
+          "biography":{
+            "fullName":"Richard Milhouse Jones",
+            "alterEgos":"No alter egos found.",
+            "aliases":[
+              "Rick Jones"
+            ],
+            "placeOfBirth":"Scarsdale, Arizona",
+            "firstAppearance":"Hulk Vol 2 #2 (April, 2008) (as A-Bomb)",
+            "publisher":"Marvel Comics",
+            "alignment":"good"
+          },
+          "work":{
+            "occupation":"Musician, adventurer, author; formerly talk show host",
+            "base":"-"
+          },
+          "connections":{
+            "groupAffiliation":"Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
+            "relatives":"Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
+          },
+          "images":{
+            "xs":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/1-a-bomb.jpg",
+            "sm":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/1-a-bomb.jpg",
+            "md":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/1-a-bomb.jpg",
+            "lg":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/1-a-bomb.jpg"
+          }
+        },
+        {
+          "id":2,
+          "name":"Abe Sapien",
+          "slug":"2-abe-sapien",
+          "powerstats":{
+            "intelligence":88,
+            "strength":28,
+            "speed":35,
+            "durability":65,
+            "power":100,
+            "combat":85
+          },
+          "appearance":{
+            "gender":"Male",
+            "race":"Icthyo Sapien",
+            "height":[
+              "6'3",
+              "191 cm"
+            ],
+            "weight":[
+              "145 lb",
+              "65 kg"
+            ],
+            "eyeColor":"Blue",
+            "hairColor":"No Hair"
+          },
+          "biography":{
+            "fullName":"Abraham Sapien",
+            "alterEgos":"No alter egos found.",
+            "aliases":[
+              "Langdon Everett Caul",
+              "Abraham Sapien",
+              "Langdon Caul"
+            ],
+            "placeOfBirth":"-",
+            "firstAppearance":"Hellboy: Seed of Destruction (1993)",
+            "publisher":"Dark Horse Comics",
+            "alignment":"good"
+          },
+          "work":{
+            "occupation":"Paranormal Investigator",
+            "base":"-"
+          },
+          "connections":{
+            "groupAffiliation":"Bureau for Paranormal Research and Defense",
+            "relatives":"Edith Howard (wife, deceased)"
+          },
+          "images":{
+            "xs":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/2-abe-sapien.jpg",
+            "sm":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/2-abe-sapien.jpg",
+            "md":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/2-abe-sapien.jpg",
+            "lg":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/2-abe-sapien.jpg"
+          }
+        },
+        {
+          "id":3,
+          "name":"Abin Sur",
+          "slug":"3-abin-sur",
+          "powerstats":{
+            "intelligence":50,
+            "strength":90,
+            "speed":53,
+            "durability":64,
+            "power":99,
+            "combat":65
+          },
+          "appearance":{
+            "gender":"Male",
+            "race":"Ungaran",
+            "height":[
+              "6'1",
+              "185 cm"
+            ],
+            "weight":[
+              "200 lb",
+              "90 kg"
+            ],
+            "eyeColor":"Blue",
+            "hairColor":"No Hair"
+          },
+          "biography":{
+            "fullName":"",
+            "alterEgos":"No alter egos found.",
+            "aliases":[
+              "Lagzia"
+            ],
+            "placeOfBirth":"Ungara",
+            "firstAppearance":"Showcase #22 (October, 1959)",
+            "publisher":"DC Comics",
+            "alignment":"good"
+          },
+          "work":{
+            "occupation":"Green Lantern, former history professor",
+            "base":"Oa"
+          },
+          "connections":{
+            "groupAffiliation":"Green Lantern Corps, Black Lantern Corps",
+            "relatives":"Amon Sur (son), Arin Sur (sister), Thaal Sinestro (brother-in-law), Soranik Natu (niece)"
+          },
+          "images":{
+            "xs":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/3-abin-sur.jpg",
+            "sm":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/3-abin-sur.jpg",
+            "md":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/3-abin-sur.jpg",
+            "lg":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/3-abin-sur.jpg"
+          }
+        },
+        {
+          "id":4,
+          "name":"Abomination",
+          "slug":"4-abomination",
+          "powerstats":{
+            "intelligence":63,
+            "strength":80,
+            "speed":53,
+            "durability":90,
+            "power":62,
+            "combat":95
+          },
+          "appearance":{
+            "gender":"Male",
+            "race":"Human / Radiation",
+            "height":[
+              "6'8",
+              "203 cm"
+            ],
+            "weight":[
+              "980 lb",
+              "441 kg"
+            ],
+            "eyeColor":"Green",
+            "hairColor":"No Hair"
+          },
+          "biography":{
+            "fullName":"Emil Blonsky",
+            "alterEgos":"No alter egos found.",
+            "aliases":[
+              "Agent R-7",
+              "Ravager of Worlds"
+            ],
+            "placeOfBirth":"Zagreb, Yugoslavia",
+            "firstAppearance":"Tales to Astonish #90",
+            "publisher":"Marvel Comics",
+            "alignment":"bad"
+          },
+          "work":{
+            "occupation":"Ex-Spy",
+            "base":"Mobile"
+          },
+          "connections":{
+            "groupAffiliation":"former member of the crew of the Andromeda Starship, ally of the Abominations and Forgotten",
+            "relatives":"Nadia Dornova Blonsky (wife, separated)"
+          },
+          "images":{
+            "xs":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/4-abomination.jpg",
+            "sm":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/4-abomination.jpg",
+            "md":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/4-abomination.jpg",
+            "lg":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/4-abomination.jpg"
+          }
+        },
+        {
+          "id":28,
+          "name":"Animal Man",
+          "slug":"28-animal-man",
+          "powerstats":{
+            "intelligence":56,
+            "strength":48,
+            "speed":47,
+            "durability":85,
+            "power":73,
+            "combat":80
+          },
+          "appearance":{
+            "gender":"Male",
+            "race":"Human",
+            "height":[
+              "6'0",
+              "183 cm"
+            ],
+            "weight":[
+              "185 lb",
+              "83 kg"
+            ],
+            "eyeColor":"Blue",
+            "hairColor":"Blond"
+          },
+          "biography":{
+            "fullName":"Bernhard Baker",
+            "alterEgos":"No alter egos found.",
+            "aliases":[
+              "The Human Zoo; A-Man; The Man with Animal Powers"
+            ],
+            "placeOfBirth":"-",
+            "firstAppearance":"Strange Adventures #180 (September, 1965)",
+            "publisher":"DC Comics",
+            "alignment":"good"
+          },
+          "work":{
+            "occupation":"-",
+            "base":"San Diego, California"
+          },
+          "connections":{
+            "groupAffiliation":"Formerly Animal Masters, Forgotten Heroes, Justice League of America, Justice League Europe",
+            "relatives":"Ellen Frazier (wife), Cliff Baker (son), Maxine Baker (daughter), unnamed second daughter, Frank Baker, Jr. (father), Phyllis Baker (mother), unnamed sister, Frank, Sr (grandfather), Teddy (great grandfather), Sherman (great-great grandfather), Jack (great-great-great grandfather), Mary Frazier (mother-in-law), Dudley (uncle-in-law), Annie Cassidy (mother of second daughter), Lucy Cassidy (half-sister of second daughter)"
+          },
+          "images":{
+            "xs":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/28-animal-man.jpg",
+            "sm":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/28-animal-man.jpg",
+            "md":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/28-animal-man.jpg",
+            "lg":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/28-animal-man.jpg"
+          }
+        },
+        {
+          "id":29,
+          "name":"Annihilus",
+          "slug":"29-annihilus",
+          "powerstats":{
+            "intelligence":75,
+            "strength":80,
+            "speed":47,
+            "durability":56,
+            "power":59,
+            "combat":64
+          },
+          "appearance":{
+            "gender":"Male",
+            "race":null,
+            "height":[
+              "5'11",
+              "180 cm"
+            ],
+            "weight":[
+              "200 lb",
+              "90 kg"
+            ],
+            "eyeColor":"Green",
+            "hairColor":"No Hair"
+          },
+          "biography":{
+            "fullName":"Annihilus",
+            "alterEgos":"No alter egos found.",
+            "aliases":[
+              "The Living Death That Walks",
+              "Lord of the Negative Zone"
+            ],
+            "placeOfBirth":"Planet of Arthros, Sector 17A, Negative Zone",
+            "firstAppearance":"Fantastic Four Annual #6 (1968)",
+            "publisher":"Marvel Comics",
+            "alignment":"bad"
+          },
+          "work":{
+            "occupation":"Conqueror, scavenger",
+            "base":"-"
+          },
+          "connections":{
+            "groupAffiliation":"Sometime ally of Blastaar",
+            "relatives":"Annihilus is a series of clonal scions"
+          },
+          "images":{
+            "xs":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/29-annihilus.jpg",
+            "sm":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/29-annihilus.jpg",
+            "md":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/29-annihilus.jpg",
+            "lg":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/29-annihilus.jpg"
+          }
+        },
+        {
+          "id":30,
+          "name":"Ant-Man",
+          "slug":"30-ant-man",
+          "powerstats":{
+            "intelligence":100,
+            "strength":18,
+            "speed":23,
+            "durability":28,
+            "power":32,
+            "combat":32
+          },
+          "appearance":{
+            "gender":"Male",
+            "race":"Human",
+            "height":[
+              "6'11",
+              "211 cm"
+            ],
+            "weight":[
+              "270 lb",
+              "122 kg"
+            ],
+            "eyeColor":"Blue",
+            "hairColor":"Blond"
+          },
+          "biography":{
+            "fullName":"Hank Pym",
+            "alterEgos":"Giant-Man, Goliath, Wasp II, Yellowjacket",
+            "aliases":[
+              "Hank Pym",
+              "Doctor Pym",
+              "Ant-Man",
+              "Goliath",
+              "Yellowjacket",
+              "Wasp",
+              "Earth's Scientist Supreme"
+            ],
+            "placeOfBirth":"Elmsford, New York",
+            "firstAppearance":"Tales to Astonish #27 (January, 1962) (as Hank Pym) Tales to Astonish #35 (September, 1962) (as Ant-Man)",
+            "publisher":"Giant-Man",
+            "alignment":"good"
+          },
+          "work":{
+            "occupation":"Adventurer, Biochemist, former manager of Avengers Compound",
+            "base":"Avengers Compound, Los Angeles; formerly Infinite Avengers Mansion; Captive aboard a Skrull ship; Avengers Mansion, New York City, New York"
+          },
+          "connections":{
+            "groupAffiliation":"Avengers Academy, Secret Avengers; formerly Mighty Avengers, Avengers (founding member), Defenders, Future Iron Man's Team",
+            "relatives":"-"
+          },
+          "images":{
+            "xs":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/30-ant-man.jpg",
+            "sm":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/30-ant-man.jpg",
+            "md":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/30-ant-man.jpg",
+            "lg":"https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/30-ant-man.jpg"
+          }
+        }
+      ]
+    },
+  {
+  "viewType":"horizontalScroll",
+  "data":[
+    {
+      "viewType":"bannerElement",
+      "imageUrl":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+      "title":"Buy 1 get 1 Free",
+      "action":{
+        "type":1,
+        "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+      }
+    },
+    {
+      "viewType":"bannerElement",
+      "imageUrl":"https://images.unsplash.com/photo-1497888329096-51c27beff665?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+      "title":"Water Licking Options",
+      "action":{
+        "type":1,
+        "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+      }
+    },
+    {
+      "viewType":"bannerElement",
+      "imageUrl":"https://images.unsplash.com/photo-1437750769465-301382cdf094?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+      "title":"Lip-Smacking Biryanis",
+      "action":{
+        "type":1,
+        "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+      }
+    },
+    {
+      "viewType":"bannerElement",
+      "imageUrl":"https://images.unsplash.com/photo-1506395308321-904a71783d60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+      "title":"Heavenly Pizzas",
+      "action":{
+        "type":1,
+        "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+      }
+    }
+  ]
+}
+]
+

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dahsboard</string>
+    <string name="title_activity_heroes">HeroesActivity</string>
+    <string name="title_activity_hero_details">HeroDetailsActivity</string>
+</resources>
