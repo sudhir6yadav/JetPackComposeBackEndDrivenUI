@@ -1,8 +1,7 @@
-![App Cover](https://github.com/unaisulhadi/SuperheroLexicon/blob/master/art/git_cover_3.jpg?raw=true)
 
 
 # Superhero Lexicon 🦹‍♂️
-Simple and Pretty Superhero App developed using Jetpack Compose UI
+Simple and Dashboard App developed using Jetpack Compose UI
 
 <br />
 
@@ -16,11 +15,9 @@ Simple and Pretty Superhero App developed using Jetpack Compose UI
 <br />
 
 ## Preview ▶
-![App Cover](https://github.com/unaisulhadi/SuperheroLexicon/blob/master/art/preview_3.gif?raw=true)
 
 ## Download APK here 👇
 
-[![Hero](https://img.shields.io/badge/Superhero-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/unaisulhadi/SuperheroLexicon/raw/master/release/Superhero%20Lexicon%20v1.0.apk)
 
 <br />
 
@@ -37,24 +34,8 @@ Feel free to fork this project, to optimise the code or to add new features.
 
 ## ✍️ Author
 
-* <b>Unaisul Hadi</b>
-* Email: unaisulhadi@gmail.com
 
 <br />
 
-## 📝 License
-```
-Copyright [2020] [Unaisul Hadi @unaisulhadi]
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
 ```
